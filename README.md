@@ -1,51 +1,60 @@
-<h1>Hi, I'm Kaden! 👋</h1>
+# Hello, I'm Kaden
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p>
-Networking & Cybersecurity student building real-world skills through hands-on home lab projects using physical Cisco hardware, Packet Tracer, Wireshark, and virtual machines. Holding a CompTIA Security+ certification with a strong focus on network defense and Layer 2 security, currently preparing for the CCNA exam in May.
-</p>
+[Brief Introduction - Remove this afterwards]
 
----
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-<h2>👨‍💻 Networking Projects (CCNA Home Lab):</h2>
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-| Project | Summary |
-|--------|---------|
-| 🔌 [VLAN Segmentation Lab](https://github.com/KadenCyberNet) | Configured VLANs on a physical Cisco switch to isolate departments (IT, Sales, HR). Practiced access port assignment, VLAN verification, and traffic isolation. |
-| 🏠 [Home Lab Setup – Physical Cisco Hardware](https://github.com/KadenCyberNet) | Built a home lab using a real Cisco switch and router. Configured console access via PuTTY, set hostnames, enable secrets, and saved configs. |
-| 🌐 [Inter-VLAN Routing – Router on a Stick](https://github.com/KadenCyberNet) | Configured a Cisco router with subinterfaces to allow communication between VLANs. Practiced trunk port setup between switch and router. |
-| 🌳 [Spanning Tree Protocol Analysis](https://github.com/KadenCyberNet) | Observed STP behavior on a live switch, manipulated root bridge election, and configured PortFast and BPDU Guard on access ports. |
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
----
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-<h2>🔐 Cybersecurity Projects:</h2>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-> These projects focus on real attack vectors that target Layer 2 networks — the same threats that exist in enterprise environments. Each project was built and tested on physical Cisco hardware.
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-<br />
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
----
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
----
-
-<h2>🌱 Currently Working On:</h2>
-
-- Studying for **CCNA Certification**
-- Expanding home lab with additional Cisco routers
-- Building EtherChannel and advanced STP labs
-- Practicing **network security hardening** and Layer 2 attack mitigation
-
----
-
-<h2>🤳 Connect with me:</h2>
-
-[<img align="left" alt="Kaden Baffour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[linkedin]: https://linkedin.com/in/kaden-baffour
-
-<!--
-**KadenCyberNet/KadenCyberNet** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+## Projects
+- Detection Lab
+- SOC Automation Project
