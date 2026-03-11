@@ -1,13 +1,8 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗███╗   ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██╔════╝████╗  ██║
-█████╔╝ ███████║██║  ██║█████╗  ██╔██╗ ██║
-██╔═██╗ ██╔══██║██║  ██║██╔══╝  ██║╚██╗██║
-██║  ██╗██║  ██║██████╔╝███████╗██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝
-```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Kaden+Baffour" alt="Kaden Baffour" />
+
 
 ### `[ Networking & Cybersecurity Student ]`
 
