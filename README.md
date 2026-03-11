@@ -28,7 +28,7 @@ I'm a networking and cybersecurity student who learns by doing. Most of my real 
 
 > *"Know your network better than the person trying to compromise it."*
 
-I'm actively building toward a career in network security and defense. With a foundation in both physical networking and cybersecurity tooling, my goal is to move into a role where I can apply threat detection, network hardening, and incident response skills in a real-world environment — whether in a SOC, as a network security engineer, or in penetration testing.
+I'm actively building toward a career in network security and defense. With a foundation in both physical networking and cybersecurity tooling, my goal is to move into a role where I can apply threat detection, network hardening, and incident response skills in a real-world environment in a SOC or NOC, as a network security engineer.
 
 ---
 
