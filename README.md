@@ -37,7 +37,7 @@ I'm actively building toward a career in network security and defense. With a fo
 | Skill | Project |
 |---|---|
 | Physical Switch & Router Configuration | https://github.com/KadenCyberNet/Initial-Cisco-Catalyst-3560-Set-Up |
-| VLAN Design & Spanning Tree Protocol | [Cisco Home Lab](#) |
+| Cisco NSA Security Hardening | https://github.com/KadenCyberNet/Cisco-NSA-Security-Hardening- |
 | Network Reconnaissance & Enumeration | [Penetration Testing Lab](#) |
 | Exploitation with Kali Linux & Metasploit | [Penetration Testing Lab](#) |
 | OS Hardening (Windows & Linux) | [Cybersecurity Course Labs](#) |
