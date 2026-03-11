@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝
 ```
 
-### `[ Networking & Cybersecurity Professional ]`
+### `[ Networking & Cybersecurity Student ]`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -20,7 +20,7 @@
 
 ## `> whoami`
 
-I'm a networking and cybersecurity professional who learns by doing. My home lab is where most of the real learning happens — I run a **physical Cisco lab** with real switches and routers for hands-on CLI practice, and a **VMware virtualization environment** where I spin up everything from vulnerable machines to full Active Directory networks. Whether it's configuring STP on physical hardware or running recon scans inside a sandboxed VMware network, I believe the best way to defend systems is to understand how to attack them first.
+I'm a networking and cybersecurity student who learns by doing. Most of my real learning happens in my home lab, where I work with physical Cisco hardware a router and a switch to practice CLI configuration hands-on. I also run a VMware environment where I spin up virtual machines to practice security concepts in a safe, isolated setting. I believe the best way to understand how to defend systems is to get hands-on with the technology itself
 
 ---
 
@@ -36,7 +36,7 @@ I'm actively building toward a career in network security and defense. With a fo
 
 | Skill | Project |
 |---|---|
-| Physical Switch & Router Configuration | [Cisco Home Lab](#) |
+| Physical Switch & Router Configuration | https://github.com/KadenCyberNet/Initial-Cisco-Catalyst-3560-Set-Up |
 | VLAN Design & Spanning Tree Protocol | [Cisco Home Lab](#) |
 | Network Reconnaissance & Enumeration | [Penetration Testing Lab](#) |
 | Exploitation with Kali Linux & Metasploit | [Penetration Testing Lab](#) |
@@ -61,15 +61,11 @@ I'm actively building toward a career in network security and defense. With a fo
 <div>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=white"/>
 </div>
 
 ### 🛡️ Defensive & SIEM
 <div>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-3B86C8?style=for-the-badge&logo=wazuh&logoColor=white"/>
 </div>
 
 ### ⚙️ Virtualization & OS
